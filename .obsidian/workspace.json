@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aefe4f9204d0a6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b1d1c74eaf6a1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常见问题.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "dimension": 59.28143712574851,
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42aa1a006d235dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "98f0d4a0722ccaa3",
+        "type": "tabs",
+        "dimension": 40.7185628742515,
+        "children": [
+          {
+            "id": "a2ea7e19451c5b4f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "324c0b9d83c44a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "常见问题.md"
+              }
+            }
+          },
+          {
+            "id": "98695456d98030ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/00. 导航.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "dimension": 34.689922480620154,
+        "children": [
+          {
+            "id": "6ad73b7dcf2a71b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常见问题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46b54befe5ed140b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eaa7cee9ed0067de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/01. 彩色时钟.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "aba7aed431721f4a",
+        "type": "tabs",
+        "dimension": 65.31007751937985,
+        "children": [
+          {
+            "id": "3e53c96b6f78fe7b",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "active": "4b1d1c74eaf6a1b5",
+  "lastOpenFiles": [
+    "Rainbell库用户实例.md",
+    "更新日志.md",
+    "常见问题.md",
+    "50 - 卡片知识/00. 卡片盒.md",
+    "30 - 阅读笔记/00. 图书馆.md",
+    "40 - Obsidian/主页/01. 彩色时钟.md",
+    "40 - Obsidian/主页/00. 主页 2.md",
+    "40 - Obsidian/主页/00. 主页.md",
+    "40 - Obsidian/主页/00. 文件管理.md",
+    "40 - Obsidian/主页/00. 导航.md"
+  ]
+}
